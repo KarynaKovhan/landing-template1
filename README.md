@@ -1,1 +1,1 @@
-    - [DEMO LINK](https://<KarynaKovhan.github.io/<repo_name>/)
+    - [DEMO LINK](https://<KarynaKovhan.github.io/landing-template1/)
